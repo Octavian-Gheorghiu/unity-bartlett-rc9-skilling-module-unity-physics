@@ -30,17 +30,17 @@
 <ol>
 <li>Session 1: Introduction to Physics Fundamentals</li>
 <ol>
-<li>What is mixed reality?</li>
-<li>Setting up the tools</li>
-<li>Configuring Unity and Visual Studio</li>
-<li>Deploying the HoloLens emulator</li>
-<li>Deploying to the HoloLens device</li>
+<li>1.Rigidbody Basics</li>
+<li>2.Coliders</li>
+<li>3.Trigger Events</li>
+<li>4.Physics Materials</li>
+<li>5.Advanced Rigid Bodies Parameters</li>
 </ol>
-<li>Session 2: Basic Interaction</li>
+<li>Session 2: Physics Fundametals Continued/li>
 <ol>
-<li>Gaze</li>
-<li>Gestures</li>
-<li>Speech</li>
+<li>1.Joints</li>
+<li>2.Rag Doll Physics</li>
+<li>3.Building Assmeblies</li>
 </ol>
 <li>Session 3: Shared experiences</li>
 <ol>
