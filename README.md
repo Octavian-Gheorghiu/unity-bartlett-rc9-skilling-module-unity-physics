@@ -1,4 +1,4 @@
-![Screenshot](hololens.png)
+![Screenshot](Unityenginelogo.jpg)
 <h1><strong>Skilling Module 2 | Introduction to Physics using Unity</strong></h1>
 <p>Tutor: Octavian Gheorghiu</p>
 <h1><strong>Overview and purpose</strong></h1>
@@ -16,8 +16,8 @@
 </ol>
 <h1><strong>Materials Needed</strong></h1>
 <ol>
-<li>Unity Game Engine, Version 2020.2</li>
-<li>Visual Studio Community</li>
+<li>Unity Game Engine, Version 2020.21f1</li>
+<li>Visual Studio Community 2019</li>
 </ol>
 <h1><strong>Verification</strong></h1>
 <ol>
@@ -86,19 +86,19 @@
 </ol>
 <h1><strong>Online support tutorials</strong></h1>
 <ul>
-<li>GitHub repo setup for the skilling module: https://github.com/Octavian-Gheorghiu/unity-bartlett-rc9-skilling-module-unity-physics</li>
-<li>C# for Unity: <a href="https://goo.gl/dJsHf6">https://goo.gl/dJsHf6</a></li>
-<li>App Development for Microsoft HoloLens: https://goo.gl/4QUMJV</li>
-<li>Holograms 101E: https://goo.gl/KJ4ZUF</li>
-<li>Holograms 240: https://goo.gl/QCofVB</li>
+<li>GitHub repo setup for the skilling module: https://github.com/Octavian-Gheorghiu/unity-bartlett-rc9-skilling-module-unity-physics </li>
+<li>Unity Physics Fundamentals: https://learn.unity.com/project/unity-physics-fundamentals?uv=2019.3 </li>
+<li>Exploring Physics in Unity: https://learn.unity.com/project/live-session-exploring-physics-in-unity </li>
+<li>Intro to the Unity Physics Engine: https://learn.unity.com/tutorial/intro-to-the-unity-physics-engine-2019-3# </li>
+<li>Unity Physics Docs: https://docs.unity3d.com/Packages/com.unity.physics@0.5/manual/index.html </li>
 </ul>
 <h1><strong>Grading</strong></h1>
 <ul>
-<li>Class Participation &acirc;&euro;&ldquo; 30%</li>
-<li>Class Homework &acirc;&euro;&ldquo; 70%</li>
+<li>Class Participation: 30%</li>
+<li>Class Homework: 70%</li>
 </ul>
 <h1><strong>Plagiarism</strong></h1>
-<p>UCL takes plagiarism very seriously and regards it as a form of fraud. The definition of plagiarism that has been adopted by the School of Continuing and Professional Studies is as follows: "Plagiarism is presenting someone else's work as though it were one's own. More specifically, plagiarism is to present as one's own words quoted without quotation marks from another writer; a paraphrased passage from another writer&acirc;&euro;&trade;s work; or facts or ideas gathered, organized, and reported by someone else, orally and/or in writing. Since plagiarism is a matter of fact, not of the student's intention, it is crucial that acknowledgement of the sources be accurate and complete. Even where there is not a conscious intention to deceive, the failure to make appropriate acknowledgement constitutes plagiarism. Penalties for plagiarism range from failure for a paper or course to dismissal from the University.</p>
+<p>UCL takes plagiarism very seriously and regards it as a form of fraud. The definition of plagiarism that has been adopted by the School of Continuing and Professional Studies is as follows: "Plagiarism is presenting someone else's work as though it were one's own. More specifically, plagiarism is to present as one's own words quoted without quotation marks from another writer; a paraphrased passage from another writers work; or facts or ideas gathered, organized, and reported by someone else, orally and/or in writing. Since plagiarism is a matter of fact, not of the student's intention, it is crucial that acknowledgement of the sources be accurate and complete. Even where there is not a conscious intention to deceive, the failure to make appropriate acknowledgement constitutes plagiarism. Penalties for plagiarism range from failure for a paper or course to dismissal from the University.</p>
 <h1><strong>Instructor</strong></h1>
 <p>Reuse and building upon ideas or code are major parts of modern software development. As a professional programmer you will never write anything from scratch. This class is structured such that all solutions are public. You are encouraged to learn from the work of your peers. I won't hunt down people who are simply copying-and-pasting solutions, because without challenging themselves, they are simply wasting their time and money taking this class.</p>
 <p>Please respect the terms of use and/or license of any code you find, and if you reimplement or duplicate an algorithm or code from elsewhere, credit the original source with an inline comment.</p>
