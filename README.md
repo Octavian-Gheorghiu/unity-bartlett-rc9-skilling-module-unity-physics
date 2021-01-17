@@ -30,17 +30,16 @@
 <ol>
 <li>Session 1: Introduction to Physics Fundamentals</li>
 <ol>
-<li>1.Rigidbody Basics</li>
-<li>2.Coliders</li>
-<li>3.Trigger Events</li>
-<li>4.Physics Materials</li>
-<li>5.Advanced Rigid Bodies Parameters</li>
+<li>Rigidbody Basics</li>
+<li>Coliders</li>
+<li>Trigger Events</li>
+<li>Physics Materials</li>
 </ol>
 <li>Session 2: Physics Fundametals Continued/li>
 <ol>
-<li>1.Joints</li>
-<li>2.Rag Doll Physics</li>
-<li>3.Building Assmeblies</li>
+<li>Joints</li>
+<li>Rag Doll Physics</li>
+<li>Building Assmeblies</li>
 </ol>
 <li>Session 3: Shared experiences</li>
 <ol>
@@ -60,13 +59,15 @@
 <ol>
 <li>Session 1 homework:</li>
 <ol>
-<li>Setup the tools and send a save a screenshot of the emulator working</li>
+<li>Complete the Basics Physics Challange 1 at https://learn.unity.com/tutorial/challenge-1-basic-object-physics?uv=2019.4&projectId=5fa94976edbc2a3884083abc </li>
+<li>Save videos of the completed challange</li>
+<li>For a higher grade invent some other physics challanges and save videos of them</li>
 </ol>
 <li>Session 2 homework:</li>
 <ol>
-<li>Setup a simple gaze interaction</li>
-<li>Setup a simple gesture interaction</li>
-<li>Setup a simple voice command interaction</li>
+<li>Complete the Basics Physics Challange 2 at https://learn.unity.com/tutorial/challenge-2-physics-joints?uv=2019.4&projectId=5fa94976edbc2a3884083abc</li>
+<li>Save videos of the completed challange</li>
+<li>For a higher grade invent some other physics challanges and save videos of them</li>
 </ol>
 <li>Session 3 homework:</li>
 <ol>
