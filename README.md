@@ -35,24 +35,40 @@
 <li>Trigger Events</li>
 <li>Physics Materials</li>
 </ol>
-<li>Session 2: Physics Fundametals Continued/li>
+<li>Session 2: Physics Fundametals Continued</li>
 <ol>
+<li>Fixed Joints</li>
+<li>Spring Joints</li>
+<li>Hinge Joints</li>
+<li>Configurable Joints</li>
+</ol>
+<li>Session 3: Unity ECS and DOTS</li>
+<ol>
+<li>What us ECS and DOTS</li>
+<li>Rigidbody</li>
+<li>Collision detection </li>
+<li>Motion </li>
+</ol>
+<li>Session 4: Unity ECS and DOTS Continued</li>
+<ol>
+<li>Material properties</li>
+<li>Distance queries</li>
+<li>Colider casting and ray casting/li>
 <li>Joints</li>
-<li>Rag Doll Physics</li>
-<li>Building Assmeblies</li>
 </ol>
-<li>Session 3: Shared experiences</li>
+<li>Session 5: Pacman Game using DOTS</li>
 <ol>
-<li>How shared holograms work</li>
-<li>Setting up the server</li>
-<li>Syncing data</li>
+<li>Project setup</li>
+<li>Basic movment using ECS</li>
+<li>DOTS Physics with ECS </li>
+<li>Damage and Collsion with DOTS </li>
 </ol>
-<li>Session 4: Project example</li>
+<li>Session 6: Pacman Game using DOTS</li>
 <ol>
-<li>Using all the interaction modes on a hologram</li>
-<li>Setting up custom shaders for holograms</li>
-<li>Importing animations and setting up simple physics interaction</li>
-<li>Building and deploying a final app</li>
+<li>Game state</li>
+<li>User Interface</li>
+<li>Camera Control and Audio Control</li>
+<li>Game export </li>
 </ol>
 </ol>
 <h1><strong>Homework assignments</strong></h1>
@@ -71,19 +87,27 @@
 </ol>
 <li>Session 3 homework:</li>
 <ol>
-<li>Create an animated cube, setup the server, deploy the app to multiple devices and save screenshot of cube from multiple vantage points</li>
+<li>Complete the Session 1 homework using DOTS and share videos using the new Physics Debug Mode</li>
 </ol>
 <li>Session 4 homework:</li>
 <ol>
-<li>Deploy the example app and save a screenshot</li>
+<li>Complete the Session 2 homework using DOTS and share videos using the new Physics Debug Mode</li>
+</ol>
+<li>Session 5 homework:</li>
+<ol>
+<li>Save a video of the project setup and the basic physics implemented in DOTS</li>
+</ol>
+<li>Session 6 homework:</li>
+<ol>
+<li>Save a video of the final game being played</li>
 </ol>
 </ol>
 <h1><strong>Final assignment</strong></h1>
-<p>Modify the Unity example, deploy the HoloLens device and save videos of the following:</p>
+<p>Modify the Pacman game example, deploy new physics behaviours and save videos of the following:</p>
 <ol>
-<li>Your own hologram object and animation</li>
-<li>Interaction with your hologram object using at least one interaction method</li>
-<li>Shared experience screenshots</li>
+<li>Main character interacting with the environment using physics</li>
+<li>Interaction between environment elements using physics</li>
+<li>Spawn new elements using physics</li>
 </ol>
 <h1><strong>Online support tutorials</strong></h1>
 <ul>
@@ -91,6 +115,7 @@
 <li>Unity Physics Fundamentals: https://learn.unity.com/project/unity-physics-fundamentals?uv=2019.3 </li>
 <li>Exploring Physics in Unity: https://learn.unity.com/project/live-session-exploring-physics-in-unity </li>
 <li>Intro to the Unity Physics Engine: https://learn.unity.com/tutorial/intro-to-the-unity-physics-engine-2019-3# </li>
+<li>Unity Physics DOTS: https://github.com/Unity-Technologies/EntityComponentSystemSamples/blob/master/UnityPhysicsSamples/Documentation/samples.md </li>
 <li>Unity Physics Docs: https://docs.unity3d.com/Packages/com.unity.physics@0.5/manual/index.html </li>
 </ul>
 <h1><strong>Grading</strong></h1>
