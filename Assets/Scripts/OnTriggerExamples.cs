@@ -24,4 +24,9 @@ public class OnTriggerExamples : MonoBehaviour
     {
         print("Just existed the trigger");
     }
+
+    private void OnCollisionEnter(Collision collision)
+    {
+        print(collision.collider.name);
+    }
 }
