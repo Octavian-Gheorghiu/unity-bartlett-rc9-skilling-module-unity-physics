@@ -17,7 +17,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.coding": {
-      "version": "0.1.0-preview.17",
+      "version": "0.1.0-preview.20",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -113,7 +113,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.inputsystem": {
-      "version": "1.0.1",
+      "version": "1.0.2",
       "depth": 0,
       "source": "registry",
       "dependencies": {},

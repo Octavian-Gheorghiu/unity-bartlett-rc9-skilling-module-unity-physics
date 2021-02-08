@@ -12,9 +12,9 @@ public class MovableSystem : SystemBase
     {
         float dt = Time.DeltaTime;
 
-        Entities.ForEach((ref Movable mov, ref Translation translation, ref Rotation rot) => {
-            translation.Value += mov.speed * mov.direction * dt;
-            rot.Value = math.mul(rot.Value, quaternion.RotateY(mov.speed * dt));
+        Entities.ForEach((ref PhysicsVelocity physVel, in Movable mov) => {
+            var step = mov.direction * mov.speed;
+            physVel.Linear = step;
 
         }).Schedule();
     }
