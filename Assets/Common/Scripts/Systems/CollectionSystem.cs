@@ -22,6 +22,7 @@ public class CollectionSystem : SystemBase
                     if (HasComponent<Collectable>(e) && !HasComponent<Kill>(e))
                     {
                         ecb.AddComponent(e, new Kill() { timer = 0 });
+                        GameManager.instance.AddPoints(GetComponent<Collectable>(e).points);
                     }
                     // Check if any power pill is connected
                     if (HasComponent<PowerPill>(e) && !HasComponent<Kill>(e))
@@ -30,6 +31,6 @@ public class CollectionSystem : SystemBase
                         ecb.AddComponent(e, new Kill() { timer = 0 });
                     }
                 }                            
-        }).Run();
+        }).WithoutBurst().Run();
     }
 }

@@ -12,6 +12,12 @@ public class GameStateSystem : SystemBase
     protected override void OnUpdate()
     {
         var pelletQuery = GetEntityQuery(ComponentType.ReadOnly<Pellet>());
-        Debug.Log(pelletQuery.CalculateEntityCount());
+        var playerQuery = GetEntityQuery(ComponentType.ReadOnly<Player>());
+
+        //Debug.Log(pelletQuery.CalculateEntityCount());
+        if (pelletQuery.CalculateEntityCount() <= 0)
+            GameManager.instance.Win();
+        if (playerQuery.CalculateEntityCount() <= 0)
+            GameManager.instance.Lose();
     }
 }
